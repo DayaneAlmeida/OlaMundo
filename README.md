@@ -4,3 +4,5 @@
  Eu quero ser dev :)
 
  Meu primeiro repositório criado assistindo o curso de Git e GitHub do Curso em Vídeo.
+ 
+ Essa linha eu adicionei diretamente no site!
